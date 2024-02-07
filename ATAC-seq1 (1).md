@@ -16,10 +16,6 @@ Volume size: 3.9T
 
 ```
 
-
-# Tips and Tricks
-Performed all tasks
-
 # Working with tables on the command line, or awk
 ``` {bash}
 1. Working on worker 1 node
