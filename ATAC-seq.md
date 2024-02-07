@@ -1,21 +1,3 @@
----
-title: "ATAC-seq1"
-author: Student names
-date:
-theme: united
-highlight: tango
-output:
-  html_document:
-    toc: true
-    toc_depth: 3
-    number_sections: true
-    toc_float:
-      collapsed: true
-      smooth_scroll: false
-tags: atacseq
----
-
-
 # Get to know the system
 ``` {bash}
 1. commands: sinfo -lN
@@ -32,10 +14,6 @@ Volume size: 3.9T
 4. /vol/COMPEPIWS/groups/atacseq_1
 
 ```
-
-
-# Tips and Tricks
-Performed all tasks
 
 # Working with tables on the command line, or awk
 ``` {bash}
@@ -86,7 +64,7 @@ f) conda update -c bioconda bedtools
 g) conda deactivate
   
 
-# Basics in R 
+# Analysis in R 
 ``` {r}
 #Load required libraries
 library(ggplot2)
