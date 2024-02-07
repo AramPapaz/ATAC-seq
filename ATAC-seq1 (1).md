@@ -1,20 +1,3 @@
----
-title: "ATAC-seq1"
-author: Student names
-date:
-theme: united
-highlight: tango
-output:
-  html_document:
-    toc: true
-    toc_depth: 3
-    number_sections: true
-    toc_float:
-      collapsed: true
-      smooth_scroll: false
-tags: atacseq
----
-
 
 # Get to know the system
 ``` {bash}
