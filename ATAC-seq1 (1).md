@@ -65,7 +65,7 @@ f) conda update -c bioconda bedtools
 g) conda deactivate
   
 
-# Basics in R 
+# Analysis with R 
 ``` {r}
 #Load required libraries
 library(ggplot2)
